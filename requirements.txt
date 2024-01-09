@@ -1,0 +1,8 @@
+requests
+sys
+re
+argparse
+csv
+datetime
+tabulate
+pytest
